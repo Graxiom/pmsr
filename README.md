@@ -1,2 +1,2 @@
 # pmsr
-The Portuguese Medical Simulation Repository
+The Portuguese Repository of Medical Simulation
