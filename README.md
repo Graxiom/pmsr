@@ -1,2 +1,3 @@
-# prms
-The Portuguese Repository of Medical Simulation
+# pmsr
+The Portuguese Medical Simulation Repository
+
